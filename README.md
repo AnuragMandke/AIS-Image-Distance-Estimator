@@ -27,10 +27,10 @@ This project estimates the distance to ships in images using a two-stage approac
 
 ## Usage
 
-From the project directory (`D:\Version2`), run:
+From the project directory, run:
 
 ```sh
-python3 distance_calculator.py
+python distance_calculator.py
 ```
 
 - All images in `input_Images` will be processed.
@@ -48,7 +48,7 @@ python3 distance_calculator.py
 
 ## Example Directory Structure
 ```
-D:\Version2\
+AIS-Image-Distance_Estimator\
   ├── distance_calculator.py
   ├── ship_detector_final_map982.pt
   ├── input_Images\
